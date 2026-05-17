@@ -1,4 +1,4 @@
-m# Hi there, I'm [Your Full Name] 👋
+m# Hi there, I'm Emmanuel 
 
 **Aspiring Web Developer** from Port Harcourt, Rivers State, Nigeria.
 
@@ -28,7 +28,7 @@ I'm currently on a journey to become a **Software Engineer**, starting with web 
 - Small freelance gigs
 
 ### 📫 Get in Touch
-- Email: [your.email@gmail.com]
+- Email: johnjunior56j@gmail.com
 - Fiverr: [add link when ready]
 - LinkedIn: [add link when ready]
 - Location: Nigeria Lagos state 
